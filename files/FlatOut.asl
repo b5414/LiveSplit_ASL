@@ -14,7 +14,7 @@ startup{
 }
 
 start{
-	return (current.menuState == 8 && old.menuState == 3);
+	return (current.menuState == 8 && old.menuState == 3 || current.menuState == 9 && old.menuState == 3);
 }
 
 reset{
