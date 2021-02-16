@@ -39,8 +39,47 @@ STATE: 0ED8EF98
 LAPS: "flatout.exe"+002CB5C8 +0 +74 +0 +60
 
 flatout.exe+2CB5F0
-flatout.exe+2A6C80 , 0c
+flatout.exe+2A6C80, 0c
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+CHAPTER: 055F8AEC
+> 055F89A8 +144
 
+value:
+0 bronze
+1 silver
+2 gold
+
+<Address>"flatout.exe"+00294004</Address>
+	<Offset>144</Offset>
+	<Offset>44</Offset>
+	<Offset>CD0</Offset>
+	<Offset>64</Offset>
+<Address>"flatout.exe"+00294004</Address>
+	<Offset>144</Offset>
+	<Offset>44</Offset>
+	<Offset>CD0</Offset>
+	<Offset>5C</Offset>
+	<Offset>A0</Offset>
+CHAPTER:
+<Address>"flatout.exe"+002CA344</Address>
+	<Offset>144</Offset>
+	<Offset>44</Offset>
+	<Offset>CD0</Offset>
+	<Offset>5C</Offset>
+	<Offset>C</Offset>
+<Address>"flatout.exe"+002CA33C</Address>
+	<Offset>144</Offset>
+	<Offset>44</Offset>
+	<Offset>CD0</Offset>
+	<Offset>5C</Offset>
+	<Offset>4C</Offset>
+<Address>"flatout.exe"+002CA160</Address>
+	<Offset>144</Offset>
+	<Offset>44</Offset>
+	<Offset>CD0</Offset>
+	<Offset>5C</Offset>
+	<Offset>1C4</Offset>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
