@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"1"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+ 0x0059B8E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"2"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+ 0x00512498</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"3"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+ 0x00511D48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"first"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+00512B4C</Address>
+      <Offsets>
+        <Offset>1ACC</Offset>
+        <Offset>140</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+00512B4C</Address>
+      <Offsets>
+        <Offset>1ACC</Offset>
+        <Offset>3C</Offset>
+        <Offset>10C</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"8 da"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GForce.exe"+00515750</Address>
+      <Offsets>
+        <Offset>1ACC</Offset>
+        <Offset>3C</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
