@@ -9,6 +9,6 @@ start{
 }
 
 split{
-	return ((current.mapID == old.mapID + 1) || (current.mapID == 26 && current.lastMapBats == 4 && old.lastMapBats == 3));
+	return ((current.mapID != old.mapID) || (current.mapID == 26 && current.lastMapBats == 4 && old.lastMapBats == 3));
 }
 
