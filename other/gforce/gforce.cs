@@ -25,3 +25,11 @@ int aState: "GForce.exe", 0x00511D48;
 // possibly useful for Game Time
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// CutScene: 0 to 1
+GForce.exe+5159CC
+GForce.exe+511B50
+GForce.exe+512454 // with CutSceneInGame
+GForce.exe+511D44 // 1 to 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
