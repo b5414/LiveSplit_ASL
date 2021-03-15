@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>48</ID>
+      <Description>"Group 1"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <Address>0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"ppp119A7DA8"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"java.dll"+0000A990</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"java.dll"+0000BDD0</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>474</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+0002644C</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>6C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+000265D8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>774</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+0002644C</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>7AC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+000265D8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>814</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"jvm.dll"+000C30D8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>260</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"jvm.dll"+000D487C</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>260</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+001B5CBC</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>150</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"jvm.dll"+0001FFB8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>154</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"awt.dll"+0006F408</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>154</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+000265D8</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>5A4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"java.dll"+0000A990</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"chromeengine2.dll"+0002644C</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>7CC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"msvcp71.dll"+0001D908</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>E8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="16" RealAddress="11B4E6E0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"jvm.dll"+000589EC</Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>44</Offset>
+            <Offset>85C</Offset>
+            <Offset>AC</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"F"</Description>
+      <LastState Value="1140850688" RealAddress="11A35614"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>11A35614</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
