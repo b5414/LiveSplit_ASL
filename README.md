@@ -1,3 +1,11 @@
+## UAZ 4x4 Racing 1
+
+- Wiki: [click](https://ru.wikipedia.org/wiki/Полный_привод:_УАЗ_4x4) (ru only)
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/4x4Racing.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/uaz)
+- Additional text: this game is terrible
+
+
 ## G-Force
 
 - Wiki: [click](https://en.wikipedia.org/wiki/G-Force_(video_game))
