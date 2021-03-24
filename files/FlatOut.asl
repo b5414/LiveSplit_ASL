@@ -1,13 +1,13 @@
 state("flatout"){
-	// int aSomeState: "flatout.exe", 0x002A6C80, 0x0C;
-	// int aGamePause: "flatout.exe", 0x002CB5D4, 0x14;
+	int aChapter: "flatout.exe", 0x00294004, 0x64, 0xCD0, 0x44, 0x144;
+	int menuState: "flatout.exe", 0x002B8154, 0x44;
+	int laps: "flatout.exe", 0x002CB5C8, 0, 0x74, 0, 0x60;
 	
 	int goodState: "flatout.exe", 0x002B815C, 0x40; // 1 2 5
 	// int goodState2: "flatout.exe", 0x002B815C, 0x44; // 4 5 8
 	
-	int aChapter: "flatout.exe", 0x00294004, 0x64, 0xCD0, 0x44, 0x144;
-	int menuState: "flatout.exe", 0x002B8154, 0x44;
-	int laps: "flatout.exe", 0x002CB5C8, 0, 0x74, 0, 0x60;
+	// int aSomeState: "flatout.exe", 0x002A6C80, 0x0C;
+	// int aGamePause: "flatout.exe", 0x002CB5D4, 0x14;
 }
 
 init{
@@ -32,7 +32,10 @@ split{
 		if(!settings["RowSplit"])return true;
 		vars.krace++;
 		int[] chapterLength = new int[3]{3, 4, 5};
-		if(vars.krace % chapterLength[current.aChapter] == 0)return true;
+		if(vars.krace % chapterLength[current.aChapter] == 0){
+			if(chapterLength[current.aChapter]*3 == vars.krace)vars.krace = 0;
+			return true;
+		}
 	}
 }
 
