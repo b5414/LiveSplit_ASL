@@ -80,4 +80,43 @@ CHAPTER:
 	<Offset>5C</Offset>
 	<Offset>1C4</Offset>
 
+
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="05328914"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"flatout.exe"+00294004</Address>
+      <Offsets>
+        <Offset>144</Offset>
+        <Offset>10</Offset>
+        <Offset>0</Offset>
+        <Offset>4</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="05328914"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"flatout.exe"+002ca344</Address>
+      <Offsets>
+        <Offset>144</Offset>
+        <Offset>10</Offset>
+        <Offset>0</Offset>
+        <Offset>4</Offset>
+        <Offset>c</Offset>
+        <Offset>c</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+</CheatTable>
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
