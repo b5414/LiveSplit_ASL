@@ -15,6 +15,38 @@
 - Additional text: _Not yet_
 
 
+## Ford Racing 2
+
+- Wiki: [click](https://en.wikipedia.org/wiki/Ford_Racing_2)
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordRacing2.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/fordracing2)
+- Additional text: _none_
+
+
+## Ford Racing 3
+
+- Wiki: [click](https://en.wikipedia.org/wiki/Ford_Racing_3)
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordRacing3.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/fordracing3)
+- Additional text: _none_
+
+
+## Ford Street Racing
+
+- Wiki: [click](https://en.wikipedia.org/wiki/Ford_Street_Racing)
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordStreetRacing.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/ford_street_racing)
+- Additional text: _none_
+
+
+## Ford Racing Off Road
+
+- Wiki: [click](https://en.wikipedia.org/wiki/Off_Road_(video_game))
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordRacingOffRoad.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/fordracing_offroad)
+- Additional text: _none_
+
+
 ## G-Force
 
 - Wiki: [click](https://en.wikipedia.org/wiki/G-Force_(video_game))
