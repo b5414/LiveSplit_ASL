@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable>
+	<CheatEntries>
+		<CheatEntry>
+			<ID>0</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+6C56B4</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>1</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+6AD548</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>2</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+3920C4</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>3</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+20E3E8</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>4</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+1FEA1C</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>5</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>FordORR.exe+206694</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>6</ID>
+			<Description>"No description"</Description>
+			<VariableType>4 Bytes</VariableType>
+			<Address>14AE017C</Address>
+		</CheatEntry>
+	</CheatEntries>
+</CheatTable>
