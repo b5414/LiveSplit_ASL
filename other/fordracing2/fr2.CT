@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="14" RealAddress="1101D448"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"fr2.exe"+0012C450</Address>
+      <Offsets>
+        <Offset>B98</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"No description"</Description>
+      <LastState Value="265047824" RealAddress="0077BE28"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fr2.exe+37BE28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"No description"</Description>
+      <LastState Value="0" RealAddress="0077BE24"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fr2.exe+37BE24</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"No description"</Description>
+      <LastState Value="0" RealAddress="0077BE20"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fr2.exe+37BE20</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
