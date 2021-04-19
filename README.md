@@ -1,3 +1,18 @@
+# Game Autosplitters
+
+### How to install
+
+1. Download the [LiveSplit](https://livesplit.org/downloads/), install it and open
+2. Click on it, with the Right Mouse Button
+3. Hit `edit splits`
+4. Select a game
+5. Hit `activate` button
+6. _(optional)_ tune an autosplitter
+
+
+---
+
+
 ## FlatOut
 
 - Wiki: [click](https://ru.wikipedia.org/wiki/FlatOut)
