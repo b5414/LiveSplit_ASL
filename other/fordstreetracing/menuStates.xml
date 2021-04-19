@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable>
+	<CheatEntries>
+		<CheatEntry>
+			<ID>0</ID>
+			<Description>"No description"</Description>
+			<LastState Value="2" RealAddress="0059A9AC"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+19A9AC</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>1</ID>
+			<Description>"No description"</Description>
+			<LastState Value="15" RealAddress="0059CF20"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+19CF20</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>3</ID>
+			<Description>"No description"</Description>
+			<LastState Value="0" RealAddress="0059D06C"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+19D06C</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>4</ID>
+			<Description>"No description"</Description>
+			<LastState Value="4" RealAddress="005A41F4"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+1A41F4</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>5</ID>
+			<Description>"No description"</Description>
+			<LastState Value="71" RealAddress="005A41F8"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+1A41F8</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>11</ID>
+			<Description>"No description"</Description>
+			<LastState Value="51" RealAddress="008B2BD8"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+4B2BD8</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>12</ID>
+			<Description>"No description"</Description>
+			<LastState Value="64" RealAddress="008B2BE4"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+4B2BE4</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>13</ID>
+			<Description>"No description"</Description>
+			<LastState Value="2" RealAddress="008B2CA8"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+4B2CA8</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>14</ID>
+			<Description>"No description"</Description>
+			<LastState Value="0" RealAddress="008B2CAC"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+4B2CAC</Address>
+		</CheatEntry>
+		<CheatEntry>
+			<ID>16</ID>
+			<Description>"No description"</Description>
+			<LastState Value="0" RealAddress="008F1FD8"/>
+			<VariableType>4 Bytes</VariableType>
+			<Address>fsr.exe+4F1FD8</Address>
+		</CheatEntry>
+	</CheatEntries>
+</CheatTable>
