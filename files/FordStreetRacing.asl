@@ -7,11 +7,11 @@ start{
 }
 
 split{
-	return (old.someState == 103 && current.someState == 104);
+	return ((old.someState == 103 || old.someState == 66) && current.someState == 104);
 }
 
 reset{
-	return (old.someState == 64 && current.someState == 74);
+	return (old.someState == 74 && (current.someState == 6 || current.someState == 77));
 }
 
 isLoading{
