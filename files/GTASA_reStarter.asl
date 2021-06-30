@@ -73,8 +73,6 @@ init{
 }
 
 startup{
-	settings.Add("res", true, "Reset on loading");
-	
 	settings.Add("Marker enter - trigger Start", true);
 	settings.CurrentDefaultParent = "Marker enter - trigger Start";
 	
