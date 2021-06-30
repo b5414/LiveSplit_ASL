@@ -92,14 +92,14 @@ start{
 	// badlands
 	if(settings["bad"] && thread.Current == "bcrash1" && (tf || thread.Old == "camera"))return true;
 	
-	// sf
+	// san fierro
 	if(settings["asf"] && thread.Current == "garag1" && (tf || thread.Old == "garage"))return true;
 	
 	// desert
 	if(settings["des"] && thread.Current == "toreno1" && (tf || thread.Old == "zero" || thread.Old == "camera"))return true;
 	
-	// lv
-	if(settings["rtl"] && thread.Current == "desert9" && (tf || thread.Old == "litcas" || thread.Old == "camera"))return true;
+	// las venturas
+	if(settings["alv"] && thread.Current == "desert9" && (tf || thread.Old == "litcas" || thread.Old == "camera"))return true;
 	
 	// rtls
 	if(settings["rtl"] && thread.Current == "mansio2" && (tf || thread.Old == "camera"))return true;
