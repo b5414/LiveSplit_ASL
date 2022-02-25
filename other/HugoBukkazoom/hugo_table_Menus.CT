@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5565</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+001801E0</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5566</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+00181568</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>238</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5569</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+0018023C</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>23C</Offset>
+        <Offset>80</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5570</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+001801E4</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>4</Offset>
+        <Offset>4</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5571</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+0018023C</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>248</Offset>
+        <Offset>C</Offset>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5572</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+00181568</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>84</Offset>
+        <Offset>8</Offset>
+        <Offset>1B8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5573</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+00181568</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>84</Offset>
+        <Offset>4</Offset>
+        <Offset>1BC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5574</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+00181568</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>23C</Offset>
+        <Offset>6C</Offset>
+        <Offset>1C8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5575</ID>
+      <Description>"pointerscan result"</Description>
+      <LastState Value="16" RealAddress="037CA858"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Runtime.exe"+0018ED30</Address>
+      <Offsets>
+        <Offset>2958</Offset>
+        <Offset>84</Offset>
+        <Offset>68</Offset>
+        <Offset>A4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
