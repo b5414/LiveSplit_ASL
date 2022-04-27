@@ -78,6 +78,14 @@
 - Additional text: these values will appear in my _nightmares_
 
 
+## Hugo: Bukkazoom!
+
+- NotWiki: [click](https://screentroll.fandom.com/wiki/Hugo:_Bukkazoom!)
+- ASL file: [copy](https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/HugoBukkazoom.asl)
+- Speedrun.com link: [click](https://www.speedrun.com/hugo_bukkazoom)
+- Additional text: it was pretty simple 🙂
+
+
 ## UAZ 4x4 Racing 1
 
 - Wiki: [click](https://ru.wikipedia.org/wiki/Полный_привод:_УАЗ_4x4) (ru only)
